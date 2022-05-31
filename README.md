@@ -1,1 +1,1 @@
-An introduction to shell scripting
+Shell, init files,variables and expansions
