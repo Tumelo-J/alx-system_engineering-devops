@@ -1,2 +1,4 @@
-#!/bin/bash
-ssh -i ~/.ssh/school -o "IdentitiesOnly=yes" ubuntu@your_server_ip
+#!/usr/bin/env bash
+# Connects to server 34.138.32.248 with key in ~/.ssh/school
+
+ssh -i ~/.ssh/school ubuntu@34.138.32.248
